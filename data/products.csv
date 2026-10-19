@@ -1,0 +1,141 @@
+product_id,title,image_path,label
+SKU-00001,Wireless Bluetooth 5.3 Over-Ear Headphones with Active Noise Canceling,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_000.jpg,Electronics
+SKU-00002,Ultra-Slim 15.6 Inch Portable USB-C IPS Monitor 1080P,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_001.jpg,Electronics
+SKU-00003,RGB Mechanical Gaming Keyboard with Hot-Swappable Blue Switches,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_002.jpg,Electronics
+SKU-00004,15W Fast Wireless Charging Stand for Qi-Enabled Smartphones,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_003.jpg,Electronics
+SKU-00005,Smart Fitness Tracker Watch with Heart Rate and SpO2 Monitor,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_004.jpg,Electronics
+SKU-00006,Ergonomic Optical Gaming Mouse with Programmable Macro Buttons,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_005.jpg,Electronics
+SKU-00007,High-Speed Thunderbolt 4 Docking Station Dual 4K Display,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_006.jpg,Electronics
+SKU-00008,Compact True Wireless Earbuds with Deep Bass and Mic,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_007.jpg,Electronics
+SKU-00009,"Portable 20,000mAh Power Bank Fast Charge USB-PD 65W",C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_008.jpg,Electronics
+SKU-00010,Smart Home Security Camera 2K WiFi Night Vision Pan-Tilt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_009.jpg,Electronics
+SKU-00011,Noise-Canceling USB Conference Speakerphone with 360 Mic,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_010.jpg,Electronics
+SKU-00012,Universal Dual-Bay External Hard Drive Dock USB 3.0,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_011.jpg,Electronics
+SKU-00013,Pro Series Wireless Bluetooth 5.3 Over-Ear Headphones with Active Noise Canceling,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_012.jpg,Electronics
+SKU-00014,2026 Model Ultra-Slim 15.6 Inch Portable USB-C IPS Monitor 1080P,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_013.jpg,Electronics
+SKU-00015,2026 Model RGB Mechanical Gaming Keyboard with Hot-Swappable Blue Switches,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_014.jpg,Electronics
+SKU-00016,2026 Model 15W Fast Wireless Charging Stand for Qi-Enabled Smartphones,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_015.jpg,Electronics
+SKU-00017,Pro Series Smart Fitness Tracker Watch with Heart Rate and SpO2 Monitor,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_016.jpg,Electronics
+SKU-00018,2026 Model Ergonomic Optical Gaming Mouse with Programmable Macro Buttons,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_017.jpg,Electronics
+SKU-00019,Premium High-Speed Thunderbolt 4 Docking Station Dual 4K Display,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_018.jpg,Electronics
+SKU-00020,Deluxe Compact True Wireless Earbuds with Deep Bass and Mic,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_019.jpg,Electronics
+SKU-00021,"Eco Edition Portable 20,000mAh Power Bank Fast Charge USB-PD 65W",C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_020.jpg,Electronics
+SKU-00022,Pro Series Smart Home Security Camera 2K WiFi Night Vision Pan-Tilt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_021.jpg,Electronics
+SKU-00023,Premium Noise-Canceling USB Conference Speakerphone with 360 Mic,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_022.jpg,Electronics
+SKU-00024,Deluxe Universal Dual-Bay External Hard Drive Dock USB 3.0,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_023.jpg,Electronics
+SKU-00025,Eco Edition Wireless Bluetooth 5.3 Over-Ear Headphones with Active Noise Canceling,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_024.jpg,Electronics
+SKU-00026,2026 Model Ultra-Slim 15.6 Inch Portable USB-C IPS Monitor 1080P,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_025.jpg,Electronics
+SKU-00027,Premium RGB Mechanical Gaming Keyboard with Hot-Swappable Blue Switches,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_026.jpg,Electronics
+SKU-00028,2026 Model 15W Fast Wireless Charging Stand for Qi-Enabled Smartphones,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_027.jpg,Electronics
+SKU-00029,Deluxe Smart Fitness Tracker Watch with Heart Rate and SpO2 Monitor,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_028.jpg,Electronics
+SKU-00030,2026 Model Ergonomic Optical Gaming Mouse with Programmable Macro Buttons,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_029.jpg,Electronics
+SKU-00031,2026 Model High-Speed Thunderbolt 4 Docking Station Dual 4K Display,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_030.jpg,Electronics
+SKU-00032,2026 Model Compact True Wireless Earbuds with Deep Bass and Mic,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_031.jpg,Electronics
+SKU-00033,"Premium Portable 20,000mAh Power Bank Fast Charge USB-PD 65W",C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_032.jpg,Electronics
+SKU-00034,Pro Series Smart Home Security Camera 2K WiFi Night Vision Pan-Tilt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_033.jpg,Electronics
+SKU-00035,Premium Noise-Canceling USB Conference Speakerphone with 360 Mic,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_electronics_034.jpg,Electronics
+SKU-00036,Men's Breathable Mesh Running Shoes Lightweight Athletic Sneakers,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_000.jpg,Footwear
+SKU-00037,Women's Classic Leather Chelsea Ankle Boots with Elastic Gore,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_001.jpg,Footwear
+SKU-00038,Trail Running Shoes All-Terrain Grip Cushioning Sole,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_002.jpg,Footwear
+SKU-00039,Casual Slip-on Canvas Loafers Comfortable Walking Flats,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_003.jpg,Footwear
+SKU-00040,Waterproof Outdoor Hiking Boots with High Ankle Support,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_004.jpg,Footwear
+SKU-00041,Orthopedic Supportive Arch Sneakers for Long Standing,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_005.jpg,Footwear
+SKU-00042,Retro Low-Top Skate Shoes Classic Suede and Canvas,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_006.jpg,Footwear
+SKU-00043,Cushioned Running Shoes Shock Absorbing Foam Sole,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_007.jpg,Footwear
+SKU-00044,Leather Dress Oxford Shoes Handcrafted Cap-Toe Formal,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_008.jpg,Footwear
+SKU-00045,Breathable Road Cycling Shoes Carbon Fiber Reinforced,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_009.jpg,Footwear
+SKU-00046,Lightweight Slip-Resistant Work Safety Shoes Steel Toe,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_010.jpg,Footwear
+SKU-00047,Water-Resistant Winter Snow Boots Faux Fur Lined,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_011.jpg,Footwear
+SKU-00048,2026 Model Men's Breathable Mesh Running Shoes Lightweight Athletic Sneakers,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_012.jpg,Footwear
+SKU-00049,Pro Series Women's Classic Leather Chelsea Ankle Boots with Elastic Gore,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_013.jpg,Footwear
+SKU-00050,Deluxe Trail Running Shoes All-Terrain Grip Cushioning Sole,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_014.jpg,Footwear
+SKU-00051,2026 Model Casual Slip-on Canvas Loafers Comfortable Walking Flats,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_015.jpg,Footwear
+SKU-00052,Eco Edition Waterproof Outdoor Hiking Boots with High Ankle Support,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_016.jpg,Footwear
+SKU-00053,Pro Series Orthopedic Supportive Arch Sneakers for Long Standing,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_017.jpg,Footwear
+SKU-00054,Eco Edition Retro Low-Top Skate Shoes Classic Suede and Canvas,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_018.jpg,Footwear
+SKU-00055,Eco Edition Cushioned Running Shoes Shock Absorbing Foam Sole,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_019.jpg,Footwear
+SKU-00056,Pro Series Leather Dress Oxford Shoes Handcrafted Cap-Toe Formal,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_020.jpg,Footwear
+SKU-00057,Pro Series Breathable Road Cycling Shoes Carbon Fiber Reinforced,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_021.jpg,Footwear
+SKU-00058,Deluxe Lightweight Slip-Resistant Work Safety Shoes Steel Toe,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_022.jpg,Footwear
+SKU-00059,Pro Series Water-Resistant Winter Snow Boots Faux Fur Lined,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_023.jpg,Footwear
+SKU-00060,Pro Series Men's Breathable Mesh Running Shoes Lightweight Athletic Sneakers,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_024.jpg,Footwear
+SKU-00061,2026 Model Women's Classic Leather Chelsea Ankle Boots with Elastic Gore,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_025.jpg,Footwear
+SKU-00062,2026 Model Trail Running Shoes All-Terrain Grip Cushioning Sole,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_026.jpg,Footwear
+SKU-00063,2026 Model Casual Slip-on Canvas Loafers Comfortable Walking Flats,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_027.jpg,Footwear
+SKU-00064,Eco Edition Waterproof Outdoor Hiking Boots with High Ankle Support,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_028.jpg,Footwear
+SKU-00065,Pro Series Orthopedic Supportive Arch Sneakers for Long Standing,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_029.jpg,Footwear
+SKU-00066,Premium Retro Low-Top Skate Shoes Classic Suede and Canvas,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_030.jpg,Footwear
+SKU-00067,Premium Cushioned Running Shoes Shock Absorbing Foam Sole,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_031.jpg,Footwear
+SKU-00068,Pro Series Leather Dress Oxford Shoes Handcrafted Cap-Toe Formal,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_032.jpg,Footwear
+SKU-00069,2026 Model Breathable Road Cycling Shoes Carbon Fiber Reinforced,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_033.jpg,Footwear
+SKU-00070,Deluxe Lightweight Slip-Resistant Work Safety Shoes Steel Toe,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_footwear_034.jpg,Footwear
+SKU-00071,Premium 100% Organic Cotton Classic Crewneck Short Sleeve T-Shirt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_000.jpg,Apparel
+SKU-00072,Slim-Fit Stretch Denim Jeans Vintage Dark Wash 5-Pocket,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_001.jpg,Apparel
+SKU-00073,Lightweight Packable Windbreaker Jacket Water-Repellent,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_002.jpg,Apparel
+SKU-00074,Merino Wool Crew Knit Sweater Soft Thermal Pullover,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_003.jpg,Apparel
+SKU-00075,High-Waisted Athletic Workout Leggings with Side Pockets,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_004.jpg,Apparel
+SKU-00076,Casual Oxford Cotton Button-Down Long Sleeve Dress Shirt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_005.jpg,Apparel
+SKU-00077,Unisex Heavyweight Fleece Pullover Hoodie Kangaroo Pocket,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_006.jpg,Apparel
+SKU-00078,Breathable Quick-Dry Gym Shorts with Compression Liner,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_007.jpg,Apparel
+SKU-00079,Waterproof Hooded Raincoat Trench with Adjustable Drawstring,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_008.jpg,Apparel
+SKU-00080,Soft Flannel Plaid Button-Up Casual Shirt Regular Fit,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_009.jpg,Apparel
+SKU-00081,Seamless Sports Bra Medium Impact Racerback Padded,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_010.jpg,Apparel
+SKU-00082,Warm Down Puffer Vest Ultralight Sleeveless Winter Jacket,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_011.jpg,Apparel
+SKU-00083,Eco Edition Premium 100% Organic Cotton Classic Crewneck Short Sleeve T-Shirt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_012.jpg,Apparel
+SKU-00084,2026 Model Slim-Fit Stretch Denim Jeans Vintage Dark Wash 5-Pocket,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_013.jpg,Apparel
+SKU-00085,Eco Edition Lightweight Packable Windbreaker Jacket Water-Repellent,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_014.jpg,Apparel
+SKU-00086,Pro Series Merino Wool Crew Knit Sweater Soft Thermal Pullover,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_015.jpg,Apparel
+SKU-00087,Pro Series High-Waisted Athletic Workout Leggings with Side Pockets,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_016.jpg,Apparel
+SKU-00088,2026 Model Casual Oxford Cotton Button-Down Long Sleeve Dress Shirt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_017.jpg,Apparel
+SKU-00089,Deluxe Unisex Heavyweight Fleece Pullover Hoodie Kangaroo Pocket,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_018.jpg,Apparel
+SKU-00090,Premium Breathable Quick-Dry Gym Shorts with Compression Liner,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_019.jpg,Apparel
+SKU-00091,Eco Edition Waterproof Hooded Raincoat Trench with Adjustable Drawstring,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_020.jpg,Apparel
+SKU-00092,Premium Soft Flannel Plaid Button-Up Casual Shirt Regular Fit,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_021.jpg,Apparel
+SKU-00093,2026 Model Seamless Sports Bra Medium Impact Racerback Padded,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_022.jpg,Apparel
+SKU-00094,Premium Warm Down Puffer Vest Ultralight Sleeveless Winter Jacket,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_023.jpg,Apparel
+SKU-00095,Premium Premium 100% Organic Cotton Classic Crewneck Short Sleeve T-Shirt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_024.jpg,Apparel
+SKU-00096,Pro Series Slim-Fit Stretch Denim Jeans Vintage Dark Wash 5-Pocket,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_025.jpg,Apparel
+SKU-00097,2026 Model Lightweight Packable Windbreaker Jacket Water-Repellent,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_026.jpg,Apparel
+SKU-00098,Eco Edition Merino Wool Crew Knit Sweater Soft Thermal Pullover,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_027.jpg,Apparel
+SKU-00099,Pro Series High-Waisted Athletic Workout Leggings with Side Pockets,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_028.jpg,Apparel
+SKU-00100,Eco Edition Casual Oxford Cotton Button-Down Long Sleeve Dress Shirt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_029.jpg,Apparel
+SKU-00101,Eco Edition Unisex Heavyweight Fleece Pullover Hoodie Kangaroo Pocket,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_030.jpg,Apparel
+SKU-00102,2026 Model Breathable Quick-Dry Gym Shorts with Compression Liner,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_031.jpg,Apparel
+SKU-00103,Premium Waterproof Hooded Raincoat Trench with Adjustable Drawstring,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_032.jpg,Apparel
+SKU-00104,Pro Series Soft Flannel Plaid Button-Up Casual Shirt Regular Fit,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_033.jpg,Apparel
+SKU-00105,Eco Edition Seamless Sports Bra Medium Impact Racerback Padded,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_apparel_034.jpg,Apparel
+SKU-00106,Double-Wall Stainless Steel French Press Coffee Maker 34 oz,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_000.jpg,Home & Kitchen
+SKU-00107,Non-Stick Ceramic 10-Inch Frying Pan Skillet Induction Safe,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_001.jpg,Home & Kitchen
+SKU-00108,Ultrasonic Cool Mist Aroma Essential Oil Diffuser with LED Light,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_002.jpg,Home & Kitchen
+SKU-00109,Heavy-Duty Enameled Cast Iron Dutch Oven with Basting Lid 6 Qt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_003.jpg,Home & Kitchen
+SKU-00110,Organic Bamboo Kitchen Cutting Board with Deep Juice Groove,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_004.jpg,Home & Kitchen
+SKU-00111,Precision Digital Food Kitchen Scale 0.1g High Accuracy,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_005.jpg,Home & Kitchen
+SKU-00112,Set of 6 Airtight Glass Food Storage Containers with Bamboo Lids,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_006.jpg,Home & Kitchen
+SKU-00113,Stainless Steel Manual Hand Crank Coffee Bean Burr Grinder,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_007.jpg,Home & Kitchen
+SKU-00114,Silicone Heat-Resistant Cooking Utensil Spatula Set 12 Pieces,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_008.jpg,Home & Kitchen
+SKU-00115,Electric Gooseneck Pour-Over Tea Kettle Temperature Control,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_009.jpg,Home & Kitchen
+SKU-00116,Heavyweight Microfiber Kitchen Dish Towels Super Absorbent,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_010.jpg,Home & Kitchen
+SKU-00117,Professional Damascus Steel Chef Knife 8-Inch Razor Sharp,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_011.jpg,Home & Kitchen
+SKU-00118,Deluxe Double-Wall Stainless Steel French Press Coffee Maker 34 oz,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_012.jpg,Home & Kitchen
+SKU-00119,2026 Model Non-Stick Ceramic 10-Inch Frying Pan Skillet Induction Safe,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_013.jpg,Home & Kitchen
+SKU-00120,2026 Model Ultrasonic Cool Mist Aroma Essential Oil Diffuser with LED Light,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_014.jpg,Home & Kitchen
+SKU-00121,Pro Series Heavy-Duty Enameled Cast Iron Dutch Oven with Basting Lid 6 Qt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_015.jpg,Home & Kitchen
+SKU-00122,Deluxe Organic Bamboo Kitchen Cutting Board with Deep Juice Groove,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_016.jpg,Home & Kitchen
+SKU-00123,Premium Precision Digital Food Kitchen Scale 0.1g High Accuracy,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_017.jpg,Home & Kitchen
+SKU-00124,Deluxe Set of 6 Airtight Glass Food Storage Containers with Bamboo Lids,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_018.jpg,Home & Kitchen
+SKU-00125,Deluxe Stainless Steel Manual Hand Crank Coffee Bean Burr Grinder,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_019.jpg,Home & Kitchen
+SKU-00126,Deluxe Silicone Heat-Resistant Cooking Utensil Spatula Set 12 Pieces,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_020.jpg,Home & Kitchen
+SKU-00127,Premium Electric Gooseneck Pour-Over Tea Kettle Temperature Control,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_021.jpg,Home & Kitchen
+SKU-00128,Deluxe Heavyweight Microfiber Kitchen Dish Towels Super Absorbent,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_022.jpg,Home & Kitchen
+SKU-00129,Premium Professional Damascus Steel Chef Knife 8-Inch Razor Sharp,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_023.jpg,Home & Kitchen
+SKU-00130,Pro Series Double-Wall Stainless Steel French Press Coffee Maker 34 oz,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_024.jpg,Home & Kitchen
+SKU-00131,2026 Model Non-Stick Ceramic 10-Inch Frying Pan Skillet Induction Safe,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_025.jpg,Home & Kitchen
+SKU-00132,Pro Series Ultrasonic Cool Mist Aroma Essential Oil Diffuser with LED Light,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_026.jpg,Home & Kitchen
+SKU-00133,Pro Series Heavy-Duty Enameled Cast Iron Dutch Oven with Basting Lid 6 Qt,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_027.jpg,Home & Kitchen
+SKU-00134,Deluxe Organic Bamboo Kitchen Cutting Board with Deep Juice Groove,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_028.jpg,Home & Kitchen
+SKU-00135,Premium Precision Digital Food Kitchen Scale 0.1g High Accuracy,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_029.jpg,Home & Kitchen
+SKU-00136,2026 Model Set of 6 Airtight Glass Food Storage Containers with Bamboo Lids,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_030.jpg,Home & Kitchen
+SKU-00137,Premium Stainless Steel Manual Hand Crank Coffee Bean Burr Grinder,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_031.jpg,Home & Kitchen
+SKU-00138,Premium Silicone Heat-Resistant Cooking Utensil Spatula Set 12 Pieces,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_032.jpg,Home & Kitchen
+SKU-00139,Pro Series Electric Gooseneck Pour-Over Tea Kettle Temperature Control,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_033.jpg,Home & Kitchen
+SKU-00140,Deluxe Heavyweight Microfiber Kitchen Dish Towels Super Absorbent,C:\Users\Samir\Downloads\REPO\Multimodal-SKU-Classifier\data\images\prod_home_&_kitchen_034.jpg,Home & Kitchen
